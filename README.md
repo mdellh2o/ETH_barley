@@ -1,4 +1,2 @@
 # ETH_barley
-This is a characterization of a collection of Ethiopian barley landraces
-Data include a genotyping by sequencing of 400+ genotypes and the phenotyping of a core collection in multiple locations. 
-A participatory variaty selection was also performed
+This repository contains scripts and relevant data to perfrom the analysis included in "The genomic and bioclimatic characterization of Ethiopian barley (Hordeum vulgare L.) unveils challenges and opportunities to adapt to a changing climate" by Lakew, Caproni et al.
